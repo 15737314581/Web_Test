@@ -1,7 +1,7 @@
 # coding = utf-8
 from selenium.webdriver.common.by import By
 
-from vip_04web.baidu.shop import BasePage
+from vip_04web.shop import BasePage
 
 
 class SearchPage(BasePage):

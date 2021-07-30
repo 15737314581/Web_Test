@@ -1,6 +1,6 @@
 # coding = utf-8
 from HTMLTestRunner import HTMLTestRunner
-from vip_04web.baidu.shop import RegisterPage
+from vip_04web.shop import RegisterPage
 import unittest
 import time
 
