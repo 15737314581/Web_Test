@@ -1,0 +1,227 @@
+1626944848392	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/v4/8qqy170d15d1xh0_yw0vwll00000gp/T/rust_mozprofileUo5oAz"
+1626944849009	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/v4/8qqy170d15d1xh0_yw0vwll00000gp/T/rust_mozprofileUo5oAz/search.json.mozlz4", (void 0)))
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 419))
+1626944850829	Marionette	INFO	Listening on port 64220
+1626944850893	Marionette	WARN	TLS certificate errors will be ignored for this session
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+1626944883654	Marionette	INFO	Stopped listening on port 64220
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1626945991245	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/v4/8qqy170d15d1xh0_yw0vwll00000gp/T/rust_mozprofile06561W"
+1626945991882	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/v4/8qqy170d15d1xh0_yw0vwll00000gp/T/rust_mozprofile06561W/search.json.mozlz4", (void 0)))
+1626945993742	Marionette	INFO	Listening on port 55859
+1626945993839	Marionette	WARN	TLS certificate errors will be ignored for this session
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+1626946008501	Marionette	INFO	Stopped listening on port 55859
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1626946160957	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/v4/8qqy170d15d1xh0_yw0vwll00000gp/T/rust_mozprofileR86kU6"
+1626946161457	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/v4/8qqy170d15d1xh0_yw0vwll00000gp/T/rust_mozprofileR86kU6/search.json.mozlz4", (void 0)))
+1626946163340	Marionette	INFO	Listening on port 57456
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 419))
+1626946163431	Marionette	WARN	TLS certificate errors will be ignored for this session
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+1626946164748	Marionette	INFO	Stopped listening on port 57456
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1626946178975	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/v4/8qqy170d15d1xh0_yw0vwll00000gp/T/rust_mozprofileoLdRvD"
+1626946179427	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/v4/8qqy170d15d1xh0_yw0vwll00000gp/T/rust_mozprofileoLdRvD/search.json.mozlz4", (void 0)))
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 419))
+1626946181209	Marionette	INFO	Listening on port 57685
+1626946181262	Marionette	WARN	TLS certificate errors will be ignored for this session
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+1626946184504	Marionette	INFO	Stopped listening on port 57685
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1626946190262	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/v4/8qqy170d15d1xh0_yw0vwll00000gp/T/rust_mozprofilet7Akw7"
+1626946190751	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/v4/8qqy170d15d1xh0_yw0vwll00000gp/T/rust_mozprofilet7Akw7/search.json.mozlz4", (void 0)))
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 419))
+1626946192493	Marionette	INFO	Listening on port 57896
+1626946192555	Marionette	WARN	TLS certificate errors will be ignored for this session
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+1626946195640	Marionette	INFO	Stopped listening on port 57896
+console.error: services.settings: 
+  main/partitioning-exempt-urls Signature failed  TypeError: NetworkError when attempting to fetch resource.
+console.error: services.settings: 
+  main/message-groups Signature failed  TypeError: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1626946239822	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/v4/8qqy170d15d1xh0_yw0vwll00000gp/T/rust_mozprofileWXZB0X"
+1626946240414	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/v4/8qqy170d15d1xh0_yw0vwll00000gp/T/rust_mozprofileWXZB0X/search.json.mozlz4", (void 0)))
+1626946242357	Marionette	INFO	Listening on port 58629
+1626946242426	Marionette	WARN	TLS certificate errors will be ignored for this session
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+1626946245550	Marionette	INFO	Stopped listening on port 58629
+1627291502772	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/v4/8qqy170d15d1xh0_yw0vwll00000gp/T/rust_mozprofileij2ivQ"
+1627291503338	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/v4/8qqy170d15d1xh0_yw0vwll00000gp/T/rust_mozprofileij2ivQ/search.json.mozlz4", (void 0)))
+1627291505066	Marionette	INFO	Listening on port 64448
+1627291505164	Marionette	WARN	TLS certificate errors will be ignored for this session
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+1627291514239	Marionette	INFO	Stopped listening on port 64448
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1627291515981	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/v4/8qqy170d15d1xh0_yw0vwll00000gp/T/rust_mozprofileyx51Rk"
+1627291516452	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/v4/8qqy170d15d1xh0_yw0vwll00000gp/T/rust_mozprofileyx51Rk/search.json.mozlz4", (void 0)))
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 419))
+1627291518169	Marionette	INFO	Listening on port 64677
+1627291518283	Marionette	WARN	TLS certificate errors will be ignored for this session
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+1627291521702	Marionette	INFO	Stopped listening on port 64677
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1627291523260	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/v4/8qqy170d15d1xh0_yw0vwll00000gp/T/rust_mozprofileOa4jih"
+1627291523672	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/v4/8qqy170d15d1xh0_yw0vwll00000gp/T/rust_mozprofileOa4jih/search.json.mozlz4", (void 0)))
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 419))
+1627291525366	Marionette	INFO	Listening on port 64880
+1627291525442	Marionette	WARN	TLS certificate errors will be ignored for this session
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+1627291528802	Marionette	INFO	Stopped listening on port 64880
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1627291782066	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/v4/8qqy170d15d1xh0_yw0vwll00000gp/T/rust_mozprofile7bu49Z"
+1627291782479	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/v4/8qqy170d15d1xh0_yw0vwll00000gp/T/rust_mozprofile7bu49Z/search.json.mozlz4", (void 0)))
+1627291784246	Marionette	INFO	Listening on port 50118
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 419))
+1627291784349	Marionette	WARN	TLS certificate errors will be ignored for this session
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+1627291788412	Marionette	INFO	Stopped listening on port 50118
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1627291789961	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/v4/8qqy170d15d1xh0_yw0vwll00000gp/T/rust_mozprofilewvpByi"
+1627291790379	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/v4/8qqy170d15d1xh0_yw0vwll00000gp/T/rust_mozprofilewvpByi/search.json.mozlz4", (void 0)))
+1627291792105	Marionette	INFO	Listening on port 50340
+1627291792156	Marionette	WARN	TLS certificate errors will be ignored for this session
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+1627291795304	Marionette	INFO	Stopped listening on port 50340
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1627291796896	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/v4/8qqy170d15d1xh0_yw0vwll00000gp/T/rust_mozprofiles3jbVD"
+1627291797306	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/v4/8qqy170d15d1xh0_yw0vwll00000gp/T/rust_mozprofiles3jbVD/search.json.mozlz4", (void 0)))
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 419))
+1627291799016	Marionette	INFO	Listening on port 50538
+1627291799083	Marionette	WARN	TLS certificate errors will be ignored for this session
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+1627291804357	Marionette	INFO	Stopped listening on port 50538
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1627359436234	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/v4/8qqy170d15d1xh0_yw0vwll00000gp/T/rust_mozprofilemhcxwx"
+1627359436928	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/v4/8qqy170d15d1xh0_yw0vwll00000gp/T/rust_mozprofilemhcxwx/search.json.mozlz4", (void 0)))
+1627359439148	Marionette	INFO	Listening on port 53650
+1627359439262	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+1627359450493	Marionette	INFO	Stopped listening on port 53650
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1627359452056	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/v4/8qqy170d15d1xh0_yw0vwll00000gp/T/rust_mozprofile7Qd4sV"
+1627359452521	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/v4/8qqy170d15d1xh0_yw0vwll00000gp/T/rust_mozprofile7Qd4sV/search.json.mozlz4", (void 0)))
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 419))
+1627359454339	Marionette	INFO	Listening on port 53930
+1627359454456	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+1627359464576	Marionette	INFO	Stopped listening on port 53930
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1627359552659	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/v4/8qqy170d15d1xh0_yw0vwll00000gp/T/rust_mozprofileHCOGEU"
+1627359553138	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/v4/8qqy170d15d1xh0_yw0vwll00000gp/T/rust_mozprofileHCOGEU/search.json.mozlz4", (void 0)))
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 419))
+1627359555038	Marionette	INFO	Listening on port 54783
+1627359555149	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+1627359564891	Marionette	INFO	Stopped listening on port 54783
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1627359566433	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/v4/8qqy170d15d1xh0_yw0vwll00000gp/T/rust_mozprofile7uW11Y"
+1627359566909	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/v4/8qqy170d15d1xh0_yw0vwll00000gp/T/rust_mozprofile7uW11Y/search.json.mozlz4", (void 0)))
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 419))
+1627359568708	Marionette	INFO	Listening on port 55024
+1627359568729	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+1627359578488	Marionette	INFO	Stopped listening on port 55024
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1627460471163	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/v4/8qqy170d15d1xh0_yw0vwll00000gp/T/rust_mozprofileCkQZtD"
+1627460472002	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/v4/8qqy170d15d1xh0_yw0vwll00000gp/T/rust_mozprofileCkQZtD/search.json.mozlz4", (void 0)))
+1627460473966	Marionette	INFO	Listening on port 50840
+1627460473996	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+1627460483843	Marionette	INFO	Stopped listening on port 50840
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1627460485383	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/v4/8qqy170d15d1xh0_yw0vwll00000gp/T/rust_mozprofilebXWFfC"
+1627460485852	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/v4/8qqy170d15d1xh0_yw0vwll00000gp/T/rust_mozprofilebXWFfC/search.json.mozlz4", (void 0)))
+1627460487683	Marionette	INFO	Listening on port 50977
+1627460487787	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+1627460497665	Marionette	INFO	Stopped listening on port 50977
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1627460499202	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/v4/8qqy170d15d1xh0_yw0vwll00000gp/T/rust_mozprofileCv2y2T"
+1627460499640	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/v4/8qqy170d15d1xh0_yw0vwll00000gp/T/rust_mozprofileCv2y2T/search.json.mozlz4", (void 0)))
+1627460501437	Marionette	INFO	Listening on port 51120
+1627460501512	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+1627460510796	Marionette	INFO	Stopped listening on port 51120
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
