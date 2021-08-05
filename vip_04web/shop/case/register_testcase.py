@@ -15,7 +15,8 @@ class RegisterTestCase(unittest.TestCase):
     #     register.close()
 
     def setUp(self) -> None:
-        self.registerObj = RegisterPage(browser='Fopts')
+        # self.registerObj = RegisterPage(browser='Fopts')
+        self.registerObj = RegisterPage()
         self.registerObj.url_get('http://shop-xo.hctestedu.com/index.php?s=/index/user/reginfo.html')
 
     def tearDown(self) -> None:

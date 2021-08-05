@@ -6,6 +6,7 @@ import os
 '''加载所有测试用例'''
 def load_all_case():
     case_path = os.path.join(os.getcwd(),'../case')
+    # print(os.getcwd())
     discover = unittest.defaultTestLoader.discover(case_path, '*testcase.py', top_level_dir=None)
     return discover
 

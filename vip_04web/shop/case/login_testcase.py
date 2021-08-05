@@ -16,7 +16,8 @@ class LoginTestCase(unittest.TestCase):
     #     register.close()
 
     def setUp(self) -> None:
-        self.loginObj = LoginPage(browser='Fopts')
+        # self.loginObj = LoginPage(browser='Fopts')
+        self.loginObj = LoginPage()
         self.loginObj.url_get('http://shop-xo.hctestedu.com/')
 
     def tearDown(self) -> None:

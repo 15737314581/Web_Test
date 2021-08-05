@@ -5,7 +5,6 @@ import time
 import unittest
 import ddt
 
-
 @ddt.ddt()
 class BaiduTestCase(unittest.TestCase):
 

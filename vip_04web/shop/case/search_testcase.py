@@ -9,7 +9,8 @@ import unittest
 class SearchTestCase(unittest.TestCase):
 
     def setUp(self) -> None:
-        self.searchObj = SearchPage(browser='Fopts')
+        # self.searchObj = SearchPage(browser='Fopts')
+        self.searchObj = SearchPage()
         self.loginObj = LoginPage(browser='no', driver=self.searchObj.driver)
         self.searchObj.url_get('http://shop-xo.hctestedu.com/')
 
