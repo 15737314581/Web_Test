@@ -43,10 +43,10 @@ class LoginTestCase(unittest.TestCase):
         '''登录成功，url断言'''
         hc_shop.login('jijianfeng01', '123456')
         # 断言
-        time.sleep(3 )
+        time.sleep(3)
         exp_url = 'http://shop-xo.hctestedu.com/'
         act_url = hc_shop.web_api.driver.current_url
-        self.assertEqual(exp_url,act_url)
+        self.assertEqual(exp_url, act_url)
 
     def test_02(self):
         '''登录成功，退出按钮断言'''
@@ -54,7 +54,8 @@ class LoginTestCase(unittest.TestCase):
         # 断言
         time.sleep(3)
         ele_quit_list = hc_shop.web_api.driver.find_elements_by_link_text('退出')
-        self.assertTrue(len(ele_quit_list)>0)
+        self.assertTrue(len(ele_quit_list) > 0)
+
 
 class SearchTestCase(unittest.TestCase):
     @classmethod
@@ -106,7 +107,7 @@ if __name__ == '__main__':
     # runner = unittest.TextTestRunner()
 
     # 创建一个执行器---HTML执行
-    with open('../report/report.html','wb') as file:
+    with open('../report/report.html', 'wb') as file:
         runner = HTMLTestRunner(stream=file,
                                 verbosity=2,
                                 title='shop商场自动化测试报告',
